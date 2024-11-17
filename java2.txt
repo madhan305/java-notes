@@ -1,0 +1,96 @@
+Q) What is the difference between C++ and Java?
+
+C++						Java
+-----						----
+It is developed by Bjarne Stroustrup.		It is developed by James Gosling.
+
+It is a partial object oriented programming 	It is a purely object oriented programming language.
+language.
+
+It is a platform dependent.			It is platform independent.
+
+Memory allocation and deallocation will taken	Memory allocation and deallocation will taken care 
+care by a programmer.				by a JVM.
+
+It supports multiple inheritance.		It does not support multiple inheritance.
+
+It supports pointers.				It does not support pointers.
+
+It supports operator overloading.		It does not support operator overloading.
+
+It supports goto statement.			It does not support goto statement.
+
+It supports preprocessor directory(#).		It does not support prepeocessor directory(#).	
+
+It contains three access specifiers i.e 	It contains four access modifiers i.e default, 
+public , private and protected.			public, private and protected.
+
+It contains three types of loops i.e 		It contains four types of loops i.e do while loop,
+do while loop, while loop and for loop.		while loop, for loop and for each loop.
+
+To save C++ program we will use .cpp extension.	To save java program we will use .java extension.
+
+
+Q) What is the difference between .Net and Java?
+
+
+.Net						Java
+------------					----------
+It is a product of Microsoft.			It is a product of Oracle Corporation.
+
+It is a platform dependent.			It is platform independent.
+
+There is less security.				It is highly secured.
+
+It contains less set of frameworks.		It contains huge set of frameworks.
+(asp.net and asp.net mvc)			(Hibernate,Spring,Structs,SpringBoot,Microservices)
+
+It is suitable for medium scale projects.	It is suitable for major scale projects.
+
+
+
+Types of IT companies 
+=====================
+We have three types of IT companies.
+
+1) Service Based Company 
+------------------------
+	ex:
+		Cognizent, Capgemini, TCS  and etc.
+
+2) Product Based Company 
+------------------------
+	ex:
+		Oracle Corporation, Microsoft, IBM and etc.
+
+3) Cloud Based Company 
+-------------------
+	ex:
+		Amazon, Google, Alibaba and etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

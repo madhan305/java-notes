@@ -1,0 +1,126 @@
+Modules in java
+===============
+We have three modules in java.
+
+					Java
+
+	|---------------------------------|------------------------------------|
+	JSE/J2SE			JEE/J2EE			JME/J2ME
+(Java Standard Edition)		(Java Enterprise Edition)	(Java Micro Edition)
+
+> Standalone App		> Distributed App		> Mobile App 
+
+> Desktop App 			> Enterprise App 
+
+> Two tier App 			> ERP App 
+
+				> N-tier App 
+
+
+> Standalone App
+----------------
+A normal java program which contains main method is called standalone application.
+
+ex:
+	class Example
+	{
+		public static void main(String[] args)
+		{
+			-
+			- //some logic
+			-
+		}	
+	}
+
+
+> Desktop App
+------------
+It is a software application or a program which is specially designed to perform perticular task.
+
+ex:
+	Control Panel 
+	Recycle bin
+	VLC Media player 
+	and etc.
+
+
+> Two tier App 
+--------------
+Having more then one tier is called two tier application.
+
+Diagram: java1.1
+Diagram: java1.2
+
+
+> Distributed App
+-----------------
+Diagram: java1.3
+
+In client-server application, if multiple request goes to main server from client then main server will distribute those request to it's parallel servers to reduce the burdun of main server such 
+type of application is called distributed application.
+
+
+> Enterprise App 
+----------------
+An application which deals with large business complex logic with the help of middleware services 
+is called enterprise application.
+
+Middleware services means authentication, autherization, malware production, firewall, security and etc.
+
+ex:
+	Facebook
+	Online Shooping website
+	and etc.
+
+> ERP App 
+-----------
+ERP stands Enterprise Resource Planning.
+
+ERP is used to maintain the data in enterprise.
+
+Diagram: java1.4
+
+
+> N-tier App 
+-----------
+Having more then two tiers is called N-tier application.
+
+Diagram: java1.5
+
+
+> Mobile App
+------------
+It is a software application or a program which is specially designed for wireless network devices like phone,tab,cell ,cellular and etc rather then laptop's and pc's.
+
+ex:
+	pubG
+	Gpay
+	phonepay
+	and etc.
+
+
+
+
+
+Note:
+-----
+
+Realtime Project : 
+
+	> Presentation logic/layer
+
+	> Business logic/layer 
+
+	> Persistence logic/layer  
+
+
+Note:
+----
+> Mobile Application :   Android , React Native , Flutter , Swift programming and etc.
+
+
+
+
+
+
+	

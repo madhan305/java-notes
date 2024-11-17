@@ -1,0 +1,151 @@
+SDLC 
+=====
+SDLC stands for Software Development Life Cycle.
+
+It is a process adopt by IT industries to develop accurate and quality of softwares.
+
+We have six phases in SDLC.
+
+1) Feasibility study 
+
+2) Analysis 
+
+3) Designing 
+
+4) Coding 
+
+5) Testing 
+
+6) Delivery and Maintainence
+
+
+
+1) Feasibility study 
+--------------------
+Feasibility study completely depends upon TELOS formulea.
+ex:
+	T - Technical Feasibility 
+	E - Economical Feasibility 
+	L - Legal Feasibility 
+	O - Operational Feasibility 
+	S - Schedule Feasibility 
+
+All the above information they will keep in a document called BDD.
+
+BDD stands for Business Designed Document.
+
+
+
+2) Analysis 
+--------------
+In this phase, System analyst or product owner will involved.
+
+They will seperate system requirements and software requirments.
+
+They will keep above information in a document called SRS.
+
+SRS stands for Software Requirement Specification.
+
+
+3) Designing 
+-------------
+We have two types of designing.
+
+i) High level designing 
+-----------------------
+A manager is responsible to perform high level designing.
+
+In high level designing we will design main/major modules.
+
+
+ii) Low level designing 
+----------------------
+A team lead or project lead is responsible to perform low level designing.
+
+In low level designing we will design child/sub modules modules.
+
+All the above information they will keep in a document called PDD/TDD.
+
+PDD stands for Project Design Document.
+TDD stands for Techical Design Document.
+
+
+4) Coding
+-------------
+In coding phase, developers will involved.
+
+They are responsible to generate the build(code).
+
+Later they are responsible to perform unit testing.
+
+
+5) Testing 
+-----------
+In testing phase, Testing Team or QA Team will involved.
+
+They are responsible to perform to make project as bug free by using one software component called STLC.
+
+STLC stands for Software Testing Life Cycle.
+
+We have three types of testing.
+
+i) Manual Testing 
+
+ii) Automation Testing 
+
+iii) Selenium Testing 
+
+
+6) Delivery and Maintainence
+--------------------------
+Before delivery they will perform UAT testing.
+
+UAT stands for User Acceptance Testing.
+
+It is divided into two types.
+
+i) Alpha testing 
+
+ii) Beta testing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

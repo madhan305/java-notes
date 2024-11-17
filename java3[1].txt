@@ -1,0 +1,136 @@
+Comments in java
+================
+Comments are created for documentation purpose.
+
+Comments are used to improve readability of our code.
+
+It is highly recommanded to use comments in our regular programming.
+
+Diagram: java3.1
+
+Comments will not display in output because they won't compiled by the compiler.
+
+In java , we have two types of comments.
+
+1) Single Line Comment 
+-------------------
+	It is used to comment a single line.
+	ex:
+		// comment here 
+
+2) Multiple Line Comment
+------------------------
+	It is used to comment multiple lines.
+	ex:
+		/*
+			-
+			- comment here 
+			-
+		*/
+
+
+ex:
+---
+//class declaration 
+class Test
+{
+
+	//main method 
+	public static void main(String[] args)
+	{
+
+		//variable declaration 
+		int x = 10;
+
+		//output stmt 
+		System.out.println(x);
+	}
+}
+
+
+Interview Questions
+===================
+
+Q) What is the difference between JDK, JRE and JVM ?
+
+JDK
+====
+JDK stands for Java Development Kit.
+
+It is a installable software which consist of Java Runtime Environment (JRE), Java Virtual Machine (JVM), compiler (javac), interpreter (java), an archiever (.jar) , documentation generator (javadoc) and other tools needed for java application development.
+
+JRE
+====
+JRE stands for Java Runtime Environment.
+It provides very good environment to run java applications only.
+
+JVM
+====
+JVM stands for Java Virtual Machine.
+JVM is an interpreter which is used to execute our program line by line procedure.
+
+Diagram: java3.2
+
+
+
+
+Q) Is java platform dependent or independent?
+
+   Java is a platform independent.
+
+   Diagram: java3.3
+
+
+
+Q) Is JVM platform dependent or independent?
+
+    JVM is platform dependent.	
+
+
+Q) What is Program?
+
+   A program is a collection of instructions.
+
+
+Q) What is instruction?
+
+   It is a collection of tokens.
+
+
+Q) What is package?
+
+   A package is a collection of classes and interfaces.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
